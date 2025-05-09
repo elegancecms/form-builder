@@ -1,6 +1,7 @@
 {
     "name": "elegancecms/form-builder",
     "description": "Laravel form builder - symfony like",
+    "license": "MIT",
     "extra": {
         "laravel": {
             "providers": [
